@@ -43,12 +43,15 @@ Here are some of the technologies and tools I work with:
 
 Here are some of my featured projects:
 
-1.[Youtix](https://youtix.id/) - Brief description of the project
-2.[Talinasab App](https://play.google.com/store/apps/details?id=io.devetek.talinasab&hl=id) 
+1.  [Youtix](https://youtix.id/)
+  -  Technologies Used: Laravel, HTML, CSS, JavaScript
+  -  Youtix is a ticketing application designed to simplify booking tickets for concerts and exhibitions. The platform provides users with an intuitive interface for discovering events, purchasing tickets, and managing bookings with ease.
+
+3.  [Talinasab App](https://play.google.com/store/apps/details?id=io.devetek.talinasab&hl=id) 
   - Technologies Used: Angular, Ionic, Capacitor, Firebase
   - Talinasab Mobile is a family tree application designed to help users explore and manage their genealogical connections with ease. The app provides a user-friendly interface for visualizing family relationships, documenting lineage, and preserving family history.
     
-3.Click For More... (soon)
+3.  Click For More... (soon my website)
 
 ## 📫 Connect with Me
 
